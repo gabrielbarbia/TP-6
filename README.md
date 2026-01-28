@@ -19,7 +19,7 @@ Le thème est : ***Les pompiers***
 
   # Les Inscriptions :
   
-  <img width="1024" height="385" alt="inscription" src="https://github.com/user-attachments/assets/4ecf0cd6-6da4-4e7e-b60f-96cb9bba1e64" />
+  ![Inscription](https://github.com/gabrielbarbia/TP-6/blob/main/inscription-removebg-preview.png)
   
   Il y a plusieurs documents a fournir mais avant cela il faut : 📍
 
@@ -34,7 +34,7 @@ Le thème est : ***Les pompiers***
 
 # Les documents : 
 
-![Documents pompiers](ChatGPT_Image_28_janv__2026__15_22_24.png)
+![Documents pompiers](https://github.com/gabrielbarbia/TP-6/blob/main/ChatGPT%20Image%2028%20janv.%202026%2C%2015_22_24.png)
 
   Il y a plusieurs documents a fournir : 📍
 
