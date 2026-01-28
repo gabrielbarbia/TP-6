@@ -19,7 +19,7 @@ Le thème est : ***Les pompiers***
 
   # Les Inscriptions :
   
-  ![Inscription](https://github.com/gabrielbarbia/TP-6/blob/main/inscription-removebg-preview.png)
+  ![Inscription](https://github.com/gabrielbarbia/TP-6/blob/main/inscription.png)
   
   Il y a plusieurs documents a fournir mais avant cela il faut : 📍
 
