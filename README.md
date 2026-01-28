@@ -10,6 +10,8 @@ Le thème est : ***Les pompiers***
 
 ![banner](https://github.com/gabrielbarbia/TP-6/blob/main/accident%20visiteurs%20GIF.gif)
 
+---
+
  ### Il ne faut pas confondre, il y à plusieurs types de pompiers : 
 
 - *Les Professionnels* = Travail
@@ -18,6 +20,7 @@ Le thème est : ***Les pompiers***
 - **LA BSPP** = Militaire → Armée de Terre 🔫 
 - **La BMPM** = Militaire → Marien Nationale ⚓
 
+---
 
   # Les Inscriptions :
   
@@ -33,6 +36,7 @@ Le thème est : ***Les pompiers***
 - [x] Être en situations régulière
 - [ ] Remplir les conditions physiques et mentales
 
+---
 
 # Les documents : 
 
