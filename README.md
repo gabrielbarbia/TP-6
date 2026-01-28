@@ -1,5 +1,7 @@
 # TP-6 - Pompier 🚒
 
+![banner](https://github.com/gabrielbarbia/TP-6/blob/main/20260128_1519_Banni%C3%A8re%20Sapeur-Pompier_simple_compose_01kg2fgsd8fnwvma65vq7jrn7h.png)
+
 Ce README est à titre d'entrainement pour le Markdown.
 
 Le thème est : ***Les pompiers***
@@ -19,7 +21,7 @@ Le thème est : ***Les pompiers***
 
   # Les Inscriptions :
   
-  ![Inscription](https://github.com/gabrielbarbia/TP-6/blob/main/inscription.png)
+  ![Inscription](https://github.com/gabrielbarbia/TP-6/blob/main/ChatGPT%20Image%2028%20janv.%202026%2C%2015_35_34.png)
   
   Il y a plusieurs documents a fournir mais avant cela il faut : 📍
 
